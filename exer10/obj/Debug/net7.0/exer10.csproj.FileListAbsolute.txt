@@ -1,0 +1,14 @@
+C:\Users\Leticia55006026\Documents\Lista02\exer10\bin\Debug\net7.0\exer10.exe
+C:\Users\Leticia55006026\Documents\Lista02\exer10\bin\Debug\net7.0\exer10.deps.json
+C:\Users\Leticia55006026\Documents\Lista02\exer10\bin\Debug\net7.0\exer10.runtimeconfig.json
+C:\Users\Leticia55006026\Documents\Lista02\exer10\bin\Debug\net7.0\exer10.dll
+C:\Users\Leticia55006026\Documents\Lista02\exer10\bin\Debug\net7.0\exer10.pdb
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.AssemblyInfoInputs.cache
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.AssemblyInfo.cs
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.csproj.CoreCompileInputs.cache
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.dll
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\refint\exer10.dll
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.pdb
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\exer10.genruntimeconfig.cache
+C:\Users\Leticia55006026\Documents\Lista02\exer10\obj\Debug\net7.0\ref\exer10.dll
